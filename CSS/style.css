@@ -1,0 +1,30 @@
+.container{
+  background-color:#707070 !important;
+}
+.well{
+  margin-top:120px;
+}
+.hr{
+  border-style:solid;
+  border-width: 5px !important;
+  border-color: red !important;
+}
+.new-quote{
+  float:right;
+  margin:0px 15px 5px 15px ;
+  padding-left:40px;
+  padding-right:40px;
+ 
+}
+.tweet{
+    float:left;
+  margin:0px 15px 5px 15px ;
+  padding-left:50px;
+  padding-right:50px;
+}
+.panel-body{
+  font-size:20px;
+  font-family:
+  
+}
+
